@@ -1,6 +1,6 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hi there 👋, I am David
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Davidwarchy)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davidwarchy@gmail.com)
 
 - 🔭 I’m currently working on creating a financial information system
 - 🌱 I’m currently learning knowledge bases
