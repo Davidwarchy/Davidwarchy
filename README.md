@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on creating a world news response system: https://twitter.com/trilightnews 
 - 🌱 I’m currently learning knowledge bases
-- 👯 I’m looking to collaborate on creating knowledge bases, 
+- 👯 I’m looking to collaborate on creating knowledge bases, systems for persisting life (general life)
 - 🤔 I’m looking for help with methods of searching for events in the world (happenings & the entities involved)
 - 💬 Ask me about triples. Let's discuss existence, knowledge, the origin of things
 - 📫 How to reach me: davidwarchy@gmail.com
-- ⚡ Fun fact: saying sth is meaningless is a meaningful statement. world is contradictions galore.
+- ⚡ Fun fact: be ok with not doing/achieving anything, and you'll be surprised by what you can do. world is contradictions galore.
