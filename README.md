@@ -8,4 +8,4 @@
 - 🤔 I’m looking for help with compute resources 
 - 💬 Ask me about existence, the origin of things, intelligence, autonomy 
 - 📫 How to reach me: davidwarchy@gmail.com
-- ⚡ Fun fact: be ok with not doing/achieving anything, and you'll be surprised by what you can do. world is contradictions galore.
+- ⚡ Fun fact: Beyond my technical work, I run a TikTok channel [subjective.cloud](https://www.tiktok.com/@subjective.cloud) where I share reflections on managing negative thoughts and emotions, aiming to inspire and support others in their personal growth journeys.
